@@ -1,12 +1,14 @@
 # academy-2017
 Agenda and materials for the 2017 versions of CoDe Academy
+
 ## General stuff
 
-### WIFI Access
 
+### WIFI Access
+You have to use your normal Eduroam id to access the WiFi.
 
 ### Slack
-You can access the CoDe Academy slack here: []()
+You can access the CoDe Academy slack [here](https://join.slack.com/code-acc-gbg/shared_invite/MTk1MTQyODg0ODAwLTE0OTcwOTkzMjgtNjc5YTk0YjQ2Yg):
 
 ## Day 1
 ### Agenda
