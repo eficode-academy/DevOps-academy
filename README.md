@@ -10,24 +10,34 @@ You can access the CoDe Academy slack here: []()
 
 ## Day 1
 ### Agenda
-* 09.00 Registration and welcome
-* 09.30 The Continuous Delivery Storyline: [Slides](https://drive.google.com/file/d/0B4Dj4Xgq55kURTF2UzZlQVBUb1E/view?usp=sharing) | [Feedback Form]()
-* 12.00 Lunch
+* Welcome and project intro
+* Introduction to Continuous Delivery
+* Lego game
+* Lunch
+* Lego game
+* Git Basics
+* Xtra: Problem solving
+* Snacks and social
 
 
 
 ## Day 2
-### Agenda
-* 09.00 
-
-
-## Day 3
 ### Agenda
 * Recap
 * Jenkins
 * Testing
 * Lunch
 * Advanced git + PIP
+
+
+
+## Day 3
+### Agenda
+* Recap
+* Docker
+* Lunch
+* Advanced Docker
+* Advanced Jenkins
 
 ## Day 4
 ### Agenda
