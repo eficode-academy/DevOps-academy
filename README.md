@@ -8,6 +8,10 @@ Agenda and materials for the 2017 versions of CoDe Academy
 ### Slack
 You can access the CoDe Academy slack here: []()
 
+### Installation
+Git: [git-scm.com](https://git-scm.com/)
+Putty for windows: [putty.org/](http://www.putty.org/)
+
 ## Day 1
 ### Agenda
 * Welcome and project intro
