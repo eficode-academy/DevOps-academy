@@ -21,7 +21,7 @@ Putty for windows: [putty.org/](http://www.putty.org/)
 * Lego game
 * Lunch
 * Lego game
-* Git Basics
+* Git Basics [Slides](http://box.coffeedrop.dk/index.php/s/tc7eG1YC1zSrG3j) | 
 * Xtra: Problem solving
 * Snacks and social
 
