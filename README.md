@@ -17,7 +17,7 @@ Putty for windows: [putty.org/](http://www.putty.org/)
 ## Day 1
 ### Agenda
 * Welcome and project intro
-* Introduction to Continuous Delivery
+* Introduction to Continuous Delivery [Slides](https://code-acc-gbg.slack.com/files/emilybache/F5S5BJD9Q/intro_to_code_academy.pdf) | [Survey](https://goo.gl/forms/itr6Gh1wCbmzKOW13)
 * Lego game
 * Lunch
 * Lego game
