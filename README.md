@@ -10,6 +10,10 @@ You have to use your normal Eduroam id to access the WiFi.
 ### Slack
 You can access the CoDe Academy slack [here](https://join.slack.com/code-acc-gbg/shared_invite/MTk1MTQyODg0ODAwLTE0OTcwOTkzMjgtNjc5YTk0YjQ2Yg):
 
+### Installation
+Git: [git-scm.com](https://git-scm.com/)
+Putty for windows: [putty.org/](http://www.putty.org/)
+
 ## Day 1
 ### Agenda
 * Welcome and project intro
