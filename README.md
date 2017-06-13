@@ -33,7 +33,7 @@ Putty for windows: [putty.org/](http://www.putty.org/)
 * Jenkins [Slides](http://code.praqma.com/reveals/code-academy/basic-jenkins) | [Survey](https://goo.gl/forms/b0rA2MWk4dCTfzpJ3)
 * Testing [Slides](https://code-acc-gbg.slack.com/files/emilybache/F5S71L9FA/testing_in_cd.pdf)| [Survey](https://goo.gl/forms/jPG1e5RA8QPsmB5v2)
 * Lunch
-* Advanced git + PIP
+* Advanced git + PIP | [Survey](https://goo.gl/forms/c0yUuuNGORmnBdCO2)
 
 
 
