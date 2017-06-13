@@ -30,7 +30,7 @@ Putty for windows: [putty.org/](http://www.putty.org/)
 ## Day 2
 ### Agenda
 * Recap
-* Jenkins [Slides](http://code.praqma.com/reveals/code-academy/basic-jenkins)
+* Jenkins [Slides](http://code.praqma.com/reveals/code-academy/basic-jenkins) | [Survey](https://goo.gl/forms/b0rA2MWk4dCTfzpJ3)
 * Testing
 * Lunch
 * Advanced git + PIP
