@@ -40,7 +40,7 @@ Putty for windows: [putty.org/](http://www.putty.org/)
 ## Day 3
 ### Agenda
 * Recap
-* Docker
+* Docker[Slides](http://box.coffeedrop.dk/index.php/s/a1U2EY3tNMqsHVN) | [Survey](https://goo.gl/forms/3I0X7ZXj8zeSFNql2)
 * Lunch
 * Advanced Docker
 * Advanced Jenkins
