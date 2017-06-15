@@ -49,7 +49,7 @@ Putty for windows: [putty.org/](http://www.putty.org/)
 ### Agenda
 
 * 9.00 Bringing it all together [Repo](https://github.com/praqma-training/ca-project)
-* 12.00 Lunch
+* 12.30 Lunch
 * 13.00 Bringing it all together
 * 15.00 Show off and evaluation
 * 16.00 Socializing, thanks for this time!
