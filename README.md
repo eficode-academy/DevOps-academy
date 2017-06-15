@@ -53,3 +53,4 @@ Putty for windows: [putty.org/](http://www.putty.org/)
 * 13.00 Bringing it all together
 * 15.00 Show off and evaluation
 * 16.00 Socializing, thanks for this time!
+**[Final survey](https://goo.gl/forms/3G3jyruYZAwuWSVB3)**
