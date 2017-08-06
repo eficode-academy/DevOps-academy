@@ -3,10 +3,10 @@ Agenda and materials for the 2017 versions of CoDe Academy
 ## General stuff
 
 ### WIFI Access
-
+SSID: ITU-guest
 
 ### Slack
-You can access the CoDe Academy slack here: []()
+You can access the CoDe Academy slack here: [codeac-cph-2017](https://join.slack.com/t/codeac-cph-2017/shared_invite/MjIyMTYyMTQxNDc1LTE1MDE4NDczMDQtMWIwOGVmYTE1MA)
 
 ### Installation
 Git: [git-scm.com](https://git-scm.com/)
