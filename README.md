@@ -16,9 +16,8 @@ Git: [git-scm.com](https://git-scm.com/)
 ### Agenda
 * Welcome and project intro
 * Introduction to Continuous Delivery
-* Lego game
+* Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/)|[Survey](https://goo.gl/forms/ZhLXm4eHPcsGheTB3)
 * Lunch
-* Lego game
 * Git Basics
 * Xtra: Problem solving
 * Snacks and social
