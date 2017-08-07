@@ -22,7 +22,7 @@ Git: [git-scm.com](https://git-scm.com/)
 * Xtra: Problem solving
 * Snacks and social
 
-
+[download the user packages for AWS](https://box.coffeedrop.dk/index.php/s/i10mIlLFd7XDc7V) **remember to write your number in slack**
 
 ## Day 2
 ### Agenda
