@@ -28,8 +28,8 @@ Setup instructions are below the agenda.
 ## Day 2
 ### Agenda
 * Recap
-* Jenkins
-* Testing
+* Testing | [Survey](https://goo.gl/forms/bSlfDxjxrdgBKGq22)
+* Jenkins [Slides](http://code.praqma.com/reveals/code-academy/basic-jenkins) | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeoHUWH9Sofip5PW6Ut9wfZTHsYbP9xd9NnqrcN5ukWe2JLiA/viewform?usp=sf_link)
 * Lunch
 * Advanced git + PIP
 
