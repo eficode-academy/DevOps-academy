@@ -15,7 +15,7 @@ Git: [git-scm.com](https://git-scm.com/)
 ## Day 1
 ### Agenda
 * Welcome and project intro
-* Introduction to Continuous Delivery
+* Introduction to Continuous Delivery [Slides](https://files.slack.com/files-pri/T6J8MD8BW-F6KQ9KV8D/continuous_delivery_academy_-_intro.pdf)
 * Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/) | [Survey](https://goo.gl/forms/ZhLXm4eHPcsGheTB3)
 * Lunch
 * Git Basics [Slides](https://docs.google.com/presentation/d/1pJsEyFxLLRNYdwCWaZ4UCKiHC4_tQ1hudf-PiYev8j4/pub?start=false&loop=false&delayms=3000) | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSd3OO2dgdO2LZdmYMudDZmAh9oGHkjUQxX6UD0_sgYV8VvwdQ/viewform?usp=sf_link) | [More Slides](https://docs.google.com/presentation/d/1ljv4ZZTFpdO-yDgDZvCIt4k9yP1hrNrZ8T3OSpWgg34/pub?start=false&loop=false&delayms=3000)
