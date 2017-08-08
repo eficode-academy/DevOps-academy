@@ -51,3 +51,14 @@ Git: [git-scm.com](https://git-scm.com/)
 * 13.00 Bringing it all together
 * 15.00 Show off and evaluation
 * 16.00 Socializing, thanks for this time!
+
+
+# AWS Setup
+
+* Download the user file.
+* Unpack the users.zip
+* Go into the user number you have chosen with Git bash for windows, and the terminal for UNIX
+* There will be three files: `docker-1.txt`,`user<number>-lab.pem`, and `user<number>-lab.ppk`
+* `docker-1.txt`: will have the IP address of the AWS instance. You need it to log into the server. 
+* both `user<number>-lab` files are private key files to use to log into your instance
+* To log in, execute: `ssh -i user<number>-lab.pem ubuntu@<ip>` to log into your server
