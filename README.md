@@ -3,7 +3,7 @@ Agenda and materials for the 2017 versions of CoDe Academy
 ## General stuff
 
 ### WIFI Access
-SSID: ??
+SSID: hioaguest
 
 ### Slack
 You can access the CoDe Academy slack here: [codeacademyoslo2017](https://join.slack.com/t/codeacademyoslo2017/shared_invite/MjIyNzgyMDY1NTU0LTE1MDIwMDY1MzktZDVkZjFjODUxZA)
