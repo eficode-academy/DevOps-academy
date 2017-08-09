@@ -38,10 +38,10 @@ Setup instructions are below the agenda.
 ## Day 3
 ### Agenda
 * Recap
-* Docker
+* Docker [Slides](https://docs.google.com/presentation/d/1lya4AI7w7QYoVNZuXE7ysY-pwDuhPvpkeYlfnumdvFw/pub?start=false&loop=false&delayms=3000) | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSe2HND_TjxpZemuAnSyF5MHAaRXeG63thv-_rHGgbayObS9dw/viewform?usp=sf_link)
 * Lunch
-* Advanced Docker
-* Advanced Jenkins
+* Advanced Docker (same slides and survey as Docker)
+* Advanced Jenkins [Slides](http://code.praqma.com/reveals/code-academy/advanced-jenkins/#/) | [Survey](https://docs.google.com/forms/d/e/1FAIpQLScccvOs2b00Fw4Rcgt5NIOhDv-bOzqRjvMXJWQnBVEWr4WRxg/viewform?usp=sf_link)
 
 ## Day 4
 ### Agenda
