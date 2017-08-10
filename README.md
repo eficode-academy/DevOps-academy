@@ -49,7 +49,7 @@ Setup instructions are below the agenda.
 * 9.00 Bringing it all together [Assignment](https://github.com/praqma-training/ca-project)
 * 12.00 Sponsor + Lunch
 * 13.00 Bringing it all together
-* 15.00 Show off and evaluation
+* 15.00 Show off and evaluation [Survey](https://docs.google.com/forms/d/e/1FAIpQLScx1T4OZXVVv0X-qZkLQQWSNVHrss7CelRqB8JbIYbwXJlWxQ/viewform?usp=sf_link)
 * 16.00 Socializing, thanks for this time!
 
 
