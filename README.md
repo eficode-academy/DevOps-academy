@@ -46,8 +46,8 @@ Setup instructions are below the agenda.
 ## Day 4
 ### Agenda
 
-* 9.00 Bringing it all together
-* 12.00 Lunch
+* 9.00 Bringing it all together [Assignment](https://github.com/praqma-training/ca-project)
+* 12.00 Sponsor + Lunch
 * 13.00 Bringing it all together
 * 15.00 Show off and evaluation
 * 16.00 Socializing, thanks for this time!
