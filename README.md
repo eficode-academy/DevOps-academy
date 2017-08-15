@@ -6,7 +6,7 @@ Agenda and materials for the 2017 versions of CoDe Academy
 
 
 ### Slack
-You can access the CoDe Academy slack here: [Slack](https://code-academy.slack.com)
+You can access the CoDe Academy slack here: []()
 
 ### Installation
 Git: [git-scm.com](https://git-scm.com/)
