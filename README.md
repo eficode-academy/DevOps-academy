@@ -3,7 +3,8 @@ Agenda and materials for the 2017 versions of CoDe Academy
 ## General stuff
 
 ### WIFI Access
-SSID: AU-guest
+SSID: Praqma
+Pass: AllAsCode2017
 
 ### Slack
 You can access the CoDe Academy slack here: [CoDe Academy Slack](https://code-academy.slack.com)
