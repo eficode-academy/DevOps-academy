@@ -1,5 +1,5 @@
-# academy-2017
-Agenda and materials for the 2017 versions of CoDe Academy
+# academy
+Agenda and materials for CoDe Academy
 
 ## General stuff
 
