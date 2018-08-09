@@ -8,20 +8,19 @@ Agenda and materials for the 2017 versions of CoDe Academy
 You have to use your normal Eduroam id to access the WiFi.
 
 ### Slack
-You can access the CoDe Academy slack [here](https://join.slack.com/code-acc-gbg/shared_invite/MTk1MTQyODg0ODAwLTE0OTcwOTkzMjgtNjc5YTk0YjQ2Yg):
+You can access the CoDe Academy slack [here]():
 
 ### Installation
 Git: [git-scm.com](https://git-scm.com/)
-Putty for windows: [putty.org/](http://www.putty.org/)
 
 ## Day 1
 ### Agenda
 * Welcome and project intro
-* Introduction to Continuous Delivery [Slides](https://code-acc-gbg.slack.com/files/emilybache/F5S5BJD9Q/intro_to_code_academy.pdf) | [Survey](https://goo.gl/forms/itr6Gh1wCbmzKOW13)
+* Introduction to Continuous Delivery [Slides]() | [Survey]()
 * Lego game
 * Lunch
 * Lego game
-* Git Basics [Slides](http://box.coffeedrop.dk/index.php/s/tc7eG1YC1zSrG3j) | [Survey](https://goo.gl/forms/WY5nlRdU4JL1f2Pk1)
+* Git Basics [Slides]() | [Survey]()
 * Xtra: Problem solving
 * Snacks and social
 
@@ -30,20 +29,20 @@ Putty for windows: [putty.org/](http://www.putty.org/)
 ## Day 2
 ### Agenda
 * Recap
-* Jenkins [Slides](http://code.praqma.com/reveals/code-academy/basic-jenkins) | [Survey](https://goo.gl/forms/b0rA2MWk4dCTfzpJ3)
-* Testing [Slides](https://code-acc-gbg.slack.com/files/emilybache/F5S71L9FA/testing_in_cd.pdf)| [Survey](https://goo.gl/forms/jPG1e5RA8QPsmB5v2)
+* Jenkins [Slides]() | [Survey]()
+* Testing [Slides]()| [Survey]()
 * Lunch
-* Advanced git + PIP [Slides](http://box.coffeedrop.dk/index.php/s/oomx8rWdOtUhQ7r) | [Survey](https://goo.gl/forms/c0yUuuNGORmnBdCO2)
+* Advanced git + PIP [Slides]() | [Survey]()
 
 
 
 ## Day 3
 ### Agenda
 * Recap
-* Docker [Slides](http://box.coffeedrop.dk/index.php/s/a1U2EY3tNMqsHVN) | [Survey](https://goo.gl/forms/3I0X7ZXj8zeSFNql2)
+* Docker [Slides]() | [Survey]()
 * Lunch
 * Advanced Docker
-* Advanced Jenkins [Slides](http://code.praqma.com/reveals/code-academy/advanced-jenkins/#/) | [Survey](https://goo.gl/forms/BrmzOPxYoAb4LmCe2)
+* Advanced Jenkins [Slides]() | [Survey]()
 
 ## Day 4
 ### Agenda
@@ -53,4 +52,4 @@ Putty for windows: [putty.org/](http://www.putty.org/)
 * 13.00 Bringing it all together
 * 15.00 Show off and evaluation
 * 16.00 Socializing, thanks for this time!
-**[Final survey](https://goo.gl/forms/3G3jyruYZAwuWSVB3)**
+**[Final survey]()**
