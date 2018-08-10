@@ -13,43 +13,43 @@ You can access the CoDe Academy slack [here]():
 ### Installation
 Git: [git-scm.com](https://git-scm.com/)
 
-## Day 1
+## Monday W1
+* Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/)
+
+## Friday W1
 ### Agenda
 * Welcome and project intro
 * Introduction to Continuous Delivery [Slides]() | [Survey]()
-* Lego game
-* Lunch
-* Lego game
 * Git Basics [Slides]() | [Survey]()
 * Xtra: Problem solving
-* Snacks and social
 
 
 
-## Day 2
+## Monday W2
 ### Agenda
 * Recap
-* Jenkins [Slides]() | [Survey]()
-* Testing [Slides]()| [Survey]()
-* Lunch
 * Advanced git + PIP [Slides]() | [Survey]()
 
 
-
-## Day 3
+## Tuesday W2
 ### Agenda
 * Recap
 * Docker [Slides]() | [Survey]()
 * Lunch
 * Advanced Docker
-* Advanced Jenkins [Slides]() | [Survey]()
 
-## Day 4
+## Wednesday W2
 ### Agenda
+
+* Jenkins
+* Lunch
+* Advanced Jenkins and project start [Slides]() | [Survey]()
+
+## Thursday W2
+#### Agenda
 
 * 9.00 Bringing it all together [Repo](https://github.com/praqma-training/ca-project)
 * 12.30 Lunch
 * 13.00 Bringing it all together
 * 15.00 Show off and evaluation
-* 16.00 Socializing, thanks for this time!
 **[Final survey]()**
