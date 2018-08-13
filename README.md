@@ -8,7 +8,7 @@ Agenda and materials for CoDe Academy
 You have to use your normal Eduroam id to access the WiFi.
 
 ### Slack
-You can access the CoDe Academy slack [here]():
+You can access the CoDe Academy slack [here](https://join.slack.com/t/code-sdu-18/shared_invite/enQtNDE1MjUxOTA2NTMxLWRiYzg4NjU4MGIyNTg0ODJjODlmOGU1NTc1YTE2MjQxMjg3NjA3ZjE3ZmM3YWU1MTU1MjI2ZTg5ZWExNzVlN2E):
 
 ### Installation
 Git: [git-scm.com](https://git-scm.com/)
