@@ -14,7 +14,7 @@ You can access the CoDe Academy slack [here](https://join.slack.com/t/code-sdu-1
 Git: [git-scm.com](https://git-scm.com/)
 
 ## Monday W1
-* Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/)
+* Lego game [Slides](https://docs.google.com/presentation/d/1IB9LtebFpDK-DJYt-7GI6YGyO1mXsctCGP0MZaF2ImI/present?token=AC4w5Vg2C2A1UIg0Bx3wEu9LfSZGbHfJBg%3A1534146266402&includes_info_params=1#slide=id.g3f8afb7885_0_0)
 
 ## Friday W1
 ### Agenda
