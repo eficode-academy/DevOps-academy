@@ -18,11 +18,10 @@ Git: [git-scm.com](https://git-scm.com/)
 
 ## Friday W1
 ### Agenda
-* Welcome and project intro
-* Introduction to Continuous Delivery [Slides]() | [Survey]()
-* Git Basics [Slides]() | [Survey]()
-* Xtra: Problem solving
-
+* Recap
+* Docker [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQP53tG1tyM8R7K0EL4QKToN3T5sRlApMKD1MB_L-an0w3A9zBiD5ihFAQf4msaFkX2k2CIXGoBe8Pf/pub?start=false&loop=false&delayms=3000) | [Survey]()
+* Lunch
+* Advanced Docker
 
 
 ## Monday W2
@@ -33,10 +32,9 @@ Git: [git-scm.com](https://git-scm.com/)
 
 ## Tuesday W2
 ### Agenda
-* Recap
-* Docker [Slides]() | [Survey]()
-* Lunch
-* Advanced Docker
+* Git Basics [Slides]() | [Survey]()
+* Xtra: Problem solving
+
 
 ## Wednesday W2
 ### Agenda
