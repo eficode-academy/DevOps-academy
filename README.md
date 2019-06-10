@@ -30,20 +30,20 @@ Git: [git-scm.com](https://git-scm.com/)
 ## Day 2
 ### Agenda
 * Recap
-* Jenkins
 * Testing
+* Git 2
 * Lunch
-* Advanced git + PIP
-
+* Docker
 
 
 ## Day 3
+
 ### Agenda
+
 * Recap
-* Docker
+* Docker 2
 * Lunch
-* Advanced Docker
-* Advanced Jenkins
+* Jenkins
 
 ## Day 4
 ### Agenda
