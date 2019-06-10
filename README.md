@@ -1,12 +1,14 @@
-# Osl academy-2017
-Agenda and materials for the 2017 versions of CoDe Academy
+# Tronheim CoDe Academy 2019
+
+Agenda and materials for the 2019 versions of CoDe Academy
+
 ## General stuff
 
 ### WIFI Access
-SSID: hioaguest
+SSID: 
 
 ### Slack
-You can access the CoDe Academy slack here: [codeacademyoslo2017](https://join.slack.com/t/codeacademyoslo2017/shared_invite/MjIyNzgyMDY1NTU0LTE1MDIwMDY1MzktZDVkZjFjODUxZA)
+You can access the CoDe Academy slack here: [codeacademytronheim2019](https://join.slack.com/t/codeacademytr-b4a3814/shared_invite/enQtNjYxODE3OTgwODcxLTllNjBlN2QxMmVkY2VkNjg0NGM3MThmNGFhNmNmNjdiMzFlNTRkNTJmODkxMzhkZWVjNDJmNTUxMjFjNTJkODI)
 
 ### Installation
 Git: [git-scm.com](https://git-scm.com/)
@@ -14,7 +16,7 @@ Git: [git-scm.com](https://git-scm.com/)
 
 ## Day 1
 ### Agenda
-* Welcome and project intro
+* Welcome
 * Introduction to Continuous Delivery
 * Lego game
 * Lunch
