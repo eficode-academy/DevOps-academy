@@ -21,7 +21,7 @@ Git: [git-scm.com](https://git-scm.com/)
 * Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/)
 * Lunch
 * Lego game
-* Git Basics [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR4S2EGAxtOB8LQCJ1ivCupcJPD5_K02cYFzb5AwOMKnzLSBOMWyrID0-XDEWKfoSKaEQMPYOWCBNQM/pub?start=false&loop=false&delayms=3000) | [exercises](https://github.com/praqma-training/git-katas)
+* Git Basics [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR4S2EGAxtOB8LQCJ1ivCupcJPD5_K02cYFzb5AwOMKnzLSBOMWyrID0-XDEWKfoSKaEQMPYOWCBNQM/pub?start=false&loop=false&delayms=3000) |[Slides2](https://docs.google.com/presentation/d/e/2PACX-1vQpT2k4Jmmc6QXJEhHnUfJsoeBlFsdybf3JtDH-kh1QnHxKdrDZYo938raim1D2usjsxMd3mT-_H2dg/pub?start=false&loop=false&delayms=3000)| [exercises](https://github.com/praqma-training/git-katas)
 * Xtra: Problem solving
 
 
