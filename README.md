@@ -23,7 +23,6 @@ Git: [git-scm.com](https://git-scm.com/)
 * Lego game
 * Git Basics 
 * Xtra: Problem solving
-* Snacks and social
 
 
 
