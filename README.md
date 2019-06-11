@@ -1,4 +1,4 @@
-# Tronheim CoDe Academy 2019
+# Trondheim CoDe Academy 2019
 
 Agenda and materials for the 2019 versions of CoDe Academy
 
