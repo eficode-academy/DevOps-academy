@@ -17,11 +17,11 @@ Git: [git-scm.com](https://git-scm.com/)
 ## Day 1
 ### Agenda
 * Welcome
-* Introduction to Continuous Delivery
-* Lego game
+* Introduction to Continuous Delivery [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRQRsg9TsPIJvvsT4_lPWL_Dy12OcZSL7P1PH6IkgWwRgrWCCkRxjFBVtzE0cz4qx0jgA5p0d2iELN7/pub?start=false&loop=false&delayms=3000)
+* Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/)
 * Lunch
 * Lego game
-* Git Basics
+* Git Basics 
 * Xtra: Problem solving
 * Snacks and social
 
