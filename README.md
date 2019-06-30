@@ -15,7 +15,7 @@ Git: [git-scm.com](https://git-scm.com/)
 ## Day 1
 ### Agenda
 * Welcome and project intro
-* Introduction to Continuous Delivery
+* Introduction to Continuous Delivery [Slides](https://files.slack.com/files-pri/T6J8MD8BW-F6KQ9KV8D/continuous_delivery_academy_-_intro.pdf)
 * Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/) | [Survey](https://goo.gl/forms/ZhLXm4eHPcsGheTB3)
 * Lunch
 * Git Basics [Slides](https://docs.google.com/presentation/d/1pJsEyFxLLRNYdwCWaZ4UCKiHC4_tQ1hudf-PiYev8j4/pub?start=false&loop=false&delayms=3000) | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSd3OO2dgdO2LZdmYMudDZmAh9oGHkjUQxX6UD0_sgYV8VvwdQ/viewform?usp=sf_link) | [More Slides](https://docs.google.com/presentation/d/1ljv4ZZTFpdO-yDgDZvCIt4k9yP1hrNrZ8T3OSpWgg34/pub?start=false&loop=false&delayms=3000)
@@ -31,25 +31,26 @@ Setup instructions are below the agenda.
 * Testing [Slides](https://files.slack.com/files-pri/T6J8MD8BW-F6K1GS7S5/writing_good_tests.pdf) | [Survey](https://goo.gl/forms/bSlfDxjxrdgBKGq22)
 * Jenkins [Slides](http://code.praqma.com/reveals/code-academy/basic-jenkins) | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeoHUWH9Sofip5PW6Ut9wfZTHsYbP9xd9NnqrcN5ukWe2JLiA/viewform?usp=sf_link)
 * Lunch
-* Advanced git + PIP [Slides] | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdceqBcfeVolJi08Sni4432S_dOExq6WL7MyuFrod3R0rI-Lw/viewform?usp=sf_link)
+* Advanced git + PIP [Slides](https://files.slack.com/files-pri/T6J8MD8BW-F6LEWS0KY/git-3.pdf) | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdceqBcfeVolJi08Sni4432S_dOExq6WL7MyuFrod3R0rI-Lw/viewform?usp=sf_link)
+
 
 
 
 ## Day 3
 ### Agenda
 * Recap
-* Docker
+* Docker [Slides](https://docs.google.com/presentation/d/1lya4AI7w7QYoVNZuXE7ysY-pwDuhPvpkeYlfnumdvFw/pub?start=false&loop=false&delayms=3000) | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSe2HND_TjxpZemuAnSyF5MHAaRXeG63thv-_rHGgbayObS9dw/viewform?usp=sf_link)
 * Lunch
-* Advanced Docker
-* Advanced Jenkins
+* Advanced Docker (same slides and survey as Docker)
+* Advanced Jenkins [Slides](http://code.praqma.com/reveals/code-academy/advanced-jenkins/#/) | [Survey](https://docs.google.com/forms/d/e/1FAIpQLScccvOs2b00Fw4Rcgt5NIOhDv-bOzqRjvMXJWQnBVEWr4WRxg/viewform?usp=sf_link)
 
 ## Day 4
 ### Agenda
 
-* 9.00 Bringing it all together
-* 12.00 Lunch
+* 9.00 Bringing it all together [Assignment](https://github.com/praqma-training/ca-project)
+* 12.00 Sponsor + Lunch
 * 13.00 Bringing it all together
-* 15.00 Show off and evaluation
+* 15.00 Show off and evaluation [Survey](https://docs.google.com/forms/d/e/1FAIpQLScx1T4OZXVVv0X-qZkLQQWSNVHrss7CelRqB8JbIYbwXJlWxQ/viewform?usp=sf_link)
 * 16.00 Socializing, thanks for this time!
 
 
