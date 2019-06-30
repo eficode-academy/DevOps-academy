@@ -1,11 +1,11 @@
-# Trondheim CoDe Academy 2019
+# Copenhagen CoDe Academy 2019
 
 Agenda and materials for the 2019 versions of CoDe Academy
 
 ## General stuff
 
 ### WIFI Access
-SSID: Eduroam or NTNUGuest
+SSID: Eduroam 
 
 ### Slack
 You can access the CoDe Academy slack here: [codeacademytronheim2019](https://join.slack.com/t/codeacademytr-b4a3814/shared_invite/enQtNjYxODE3OTgwODcxLTllNjBlN2QxMmVkY2VkNjg0NGM3MThmNGFhNmNmNjdiMzFlNTRkNTJmODkxMzhkZWVjNDJmNTUxMjFjNTJkODI)
@@ -20,7 +20,6 @@ Git: [git-scm.com](https://git-scm.com/)
 * Introduction to Continuous Delivery [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRQRsg9TsPIJvvsT4_lPWL_Dy12OcZSL7P1PH6IkgWwRgrWCCkRxjFBVtzE0cz4qx0jgA5p0d2iELN7/pub?start=false&loop=false&delayms=3000)
 * Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/)
 * Lunch
-* Lego game
 * Git Basics [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR4S2EGAxtOB8LQCJ1ivCupcJPD5_K02cYFzb5AwOMKnzLSBOMWyrID0-XDEWKfoSKaEQMPYOWCBNQM/pub?start=false&loop=false&delayms=3000) |[Slides2](https://docs.google.com/presentation/d/e/2PACX-1vQpT2k4Jmmc6QXJEhHnUfJsoeBlFsdybf3JtDH-kh1QnHxKdrDZYo938raim1D2usjsxMd3mT-_H2dg/pub?start=false&loop=false&delayms=3000)| [exercises](https://github.com/praqma-training/git-katas)
 * Xtra: Problem solving
 
@@ -29,26 +28,35 @@ Git: [git-scm.com](https://git-scm.com/)
 ## Day 2
 ### Agenda
 * Recap
-* Testing
-* Git 2
+* Git
 * Lunch
-* Docker [Slides](http://cloud.coffeedrop.dk/s/fPzdfHnn8nip9GP) | [Exercises](https://github.com/praqma-training/docker-katas)
-
+* Git
 
 ## Day 3
 
 ### Agenda
 
 * Recap
-* Docker 2
+* Docker [Slides](http://cloud.coffeedrop.dk/s/fPzdfHnn8nip9GP) | [Exercises](https://github.com/praqma-training/docker-katas)
 * Lunch
-* Jenkins
+* Docker 
+
 
 ## Day 4
+
+### Agenda
+
+* Recap
+* CircleCI/Jenkins workshop
+* Lunch
+* CoDe talk and Pipeline game
+* Project Introduction
+
+## Day 5
 ### Agenda
 
 * 9.00 Bringing it all together
 * 12.00 Lunch
 * 13.00 Bringing it all together
 * 15.00 Show off and evaluation
-* 16.00 Socializing, thanks for this time!
+
