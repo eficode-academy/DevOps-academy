@@ -8,7 +8,7 @@ Agenda and materials for the 2019 versions of CoDe Academy
 SSID: Eduroam 
 
 ### Slack
-You can access the CoDe Academy slack here: [codeacademytronheim2019](https://join.slack.com/t/codeacademytr-b4a3814/shared_invite/enQtNjYxODE3OTgwODcxLTllNjBlN2QxMmVkY2VkNjg0NGM3MThmNGFhNmNmNjdiMzFlNTRkNTJmODkxMzhkZWVjNDJmNTUxMjFjNTJkODI)
+You can access the CoDe Academy slack here: [codeacademycopenhagen2019](https://join.slack.com/t/codeacademycph2019/shared_invite/enQtNjY5MjQzNjE2MTYzLTI2ZDA4NjI4NWY3OWE0MzkyY2JmOWY5OWZhY2YxMjQ2Nzk0Y2RlMjdmNjBlMjJjNTZhYTcyY2MwNDdmY2JkMWM)
 
 ### Installation
 Git: [git-scm.com](https://git-scm.com/)
