@@ -4,6 +4,8 @@ Agenda and materials for the 2019 versions of CoDe Academy
 
 ## General stuff
 
+All days starts at 9:00 and ends around 16:00.
+
 ### WIFI Access
 SSID: Eduroam 
 
