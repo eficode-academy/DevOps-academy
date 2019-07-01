@@ -22,7 +22,7 @@ Git: [git-scm.com](https://git-scm.com/)
 * Introduction to Continuous Delivery [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRQRsg9TsPIJvvsT4_lPWL_Dy12OcZSL7P1PH6IkgWwRgrWCCkRxjFBVtzE0cz4qx0jgA5p0d2iELN7/pub?start=false&loop=false&delayms=3000)
 * Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/)
 * Lunch
-* Git Basics [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR4S2EGAxtOB8LQCJ1ivCupcJPD5_K02cYFzb5AwOMKnzLSBOMWyrID0-XDEWKfoSKaEQMPYOWCBNQM/pub?start=false&loop=false&delayms=3000) |[Slides2](https://docs.google.com/presentation/d/e/2PACX-1vQpT2k4Jmmc6QXJEhHnUfJsoeBlFsdybf3JtDH-kh1QnHxKdrDZYo938raim1D2usjsxMd3mT-_H2dg/pub?start=false&loop=false&delayms=3000)| [exercises](https://github.com/praqma-training/git-katas)
+* Git Basics [Slides](https://files.slack.com/files-pri/TL2EKBW23-FL1AJ0RRB/download/copy_of_git_for_students_-_day_one.pdf)| [exercises](https://github.com/praqma-training/git-katas)
 * Xtra: Problem solving
 
 
