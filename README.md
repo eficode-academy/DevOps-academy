@@ -30,7 +30,7 @@ Git: [git-scm.com](https://git-scm.com/)
 ## Day 2
 ### Agenda
 * Recap
-* Git
+* Git [Slides](https://files.slack.com/files-pri/TL2EKBW23-FL4BV7E06/download/git_-_academy_dtu_2019.pdf)
 * Lunch
 * Git
 
