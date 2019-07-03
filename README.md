@@ -22,7 +22,7 @@ Git: [git-scm.com](https://git-scm.com/)
 * Introduction to Continuous Delivery [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRQRsg9TsPIJvvsT4_lPWL_Dy12OcZSL7P1PH6IkgWwRgrWCCkRxjFBVtzE0cz4qx0jgA5p0d2iELN7/pub?start=false&loop=false&delayms=3000)
 * Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/)
 * Lunch
-* Git Basics [Slides](https://files.slack.com/files-pri/TL2EKBW23-FL1AJ0RRB/download/copy_of_git_for_students_-_day_one.pdf)| [exercises](https://github.com/praqma-training/git-katas)
+* Git Basics [Slides](https://codeacademycph2019.slack.com/files/UL0F24WJG/FKS3W1611/git_-_academy_dtu_2019.pdf)| [exercises](https://github.com/praqma-training/git-katas)
 * Xtra: Problem solving
 
 
@@ -30,7 +30,7 @@ Git: [git-scm.com](https://git-scm.com/)
 ## Day 2
 ### Agenda
 * Recap
-* Git [Slides](https://files.slack.com/files-pri/TL2EKBW23-FL4BV7E06/download/git_-_academy_dtu_2019.pdf)
+* Git [Slides](https://codeacademycph2019.slack.com/files/UL0F24WJG/FKS3W1611/git_-_academy_dtu_2019.pdf)
 * Lunch
 * Git
 
