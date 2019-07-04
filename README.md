@@ -49,9 +49,9 @@ Git: [git-scm.com](https://git-scm.com/)
 ### Agenda
 
 * Recap
-* CircleCI/Jenkins workshop
+* CircleCI workshop [Slides](http://cloud.coffeedrop.dk/s/QG29xtGsGeRcsYJ)|[Exercises](https://github.com/praqma-training/circle-ci-workshop)
 * Lunch
-* CoDe talk and Pipeline game
+* Pipeline game
 * Project Introduction
 
 ## Day 5
