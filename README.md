@@ -42,7 +42,7 @@ Git: [git-scm.com](https://git-scm.com/)
 * Recap
 * Docker 2
 * Lunch
-* Jenkins
+* CircleCI
 
 ## Day 4
 ### Agenda
