@@ -42,7 +42,7 @@ Git: [git-scm.com](https://git-scm.com/)
 * Recap
 * Docker 2
 * Lunch
-* CircleCI
+* [CircleCI](https://github.com/praqma-training/circle-ci-workshop)
 
 ## Day 4
 ### Agenda
