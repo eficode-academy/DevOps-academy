@@ -29,7 +29,7 @@ Git: [git-scm.com](https://git-scm.com/)
 ## Day 2
 ### Agenda
 * Recap
-* Testing
+* Test Driven Development [slides](https://docs.google.com/presentation/d/11S_HgmbjG1xHjsVVVzct_S8Jp_eSHGsGPmxKGArI4Tg/edit?usp=sharing)
 * Git 2
 * Lunch
 * Docker
