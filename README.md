@@ -32,7 +32,7 @@ Git: [git-scm.com](https://git-scm.com/)
 * Testing
 * Git 2
 * Lunch
-* Docker [Slides](https://docs.google.com/presentation/d/1zigkGc2R8p64VK78Cx0iyJh_fRtJ6b8Me69NSzTKZyk/present?slide=id.p10) | [Exercises](https://github.com/praqma-training/docker-katas)
+* Docker [Slides](https://docs.google.com/presentation/d/16L0o2AxeWzqiy1NjIVydX-oT48gMZFCVQLkDPqE8KuY/present) | [Exercises](https://github.com/praqma-training/docker-katas)
 
 
 ## Day 3
